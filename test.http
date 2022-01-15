@@ -1,0 +1,10 @@
+
+###
+
+GET http://localhost:10089/css/home.css
+
+###
+GET http://localhost:10089/img/test.jpg
+
+###
+GET http://localhost:10089/home
